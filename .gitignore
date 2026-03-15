@@ -1,0 +1,49 @@
+# ==========================================
+# .gitignore para Projetos de Dados em Python
+# ==========================================
+
+# 1. Ficheiros de Sistema Operativo (Evita que lixo do Mac ou Windows vá para o GitHub)
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# 2. Ficheiros Temporários e Cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# 3. Ambientes Virtuais (NUNCA envie o seu ambiente virtual para o GitHub)
+env/
+venv/
+.env/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# 4. Jupyter Notebooks (Se decidir usar no futuro)
+.ipynb_checkpoints/
+
+# 5. Configurações de Editores de Código (VS Code, PyCharm, etc.)
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ==========================================
+# NOTA SOBRE DADOS (Leia com atenção)
+# ==========================================
+# Neste projeto, NÃO estamos a ignorar a pasta /data/ porque os seus 
+# ficheiros CSV (IBGE) são pequenos e essenciais para a replicação.
+# Se no futuro trabalhar com microdados gigantes (>100MB) ou dados 
+# sigilosos, deverá descomentar as linhas abaixo:
+#
+# data/raw/
+# data/secret/
+# *.csv
