@@ -1,6 +1,8 @@
 # Produtividade Setorial no Brasil: Uma Análise Comparativa Pré e Pós-Pandemia
 
-Este repositório contém os dados e códigos de replicação para o *Working Paper* [Inserir Título do seu Artigo aqui, se houver].
+https://doi.org/10.5281/zenodo.19131400
+
+Este repositório contém os dados e códigos de replicação para o *Working Paper* [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6423439].
 
 ## Resumo do Projeto
 A pesquisa analisa a evolução da produtividade do trabalho no Brasil, segmentada por grandes setores (Indústria, Comércio, Serviços e Agronegócio). O objetivo principal é comparar a trajetória histórica e projetada da produtividade com os resultados efetivamente realizados após o choque da pandemia de COVID-19.
