@@ -25,3 +25,11 @@ Para replicar os resultados e tabelas apresentadas no artigo:
 3. Execute o script principal:
    ```bash
    python scripts/01_analise_produtividade.py
+
+## Como Citar / How to Cite
+
+Se você utilizar esta base de dados em sua pesquisa, por favor cite:
+
+**SILVA, Paulo Roberto.** Produtividade Setorial no Brasil: Uma Análise Comparativa Pré e Pós-Pandemia. Zenodo, 2024. DOI: (https://doi.org/10.5281/zenodo.19131400).
+
+Link para o Pre-print (SSRN): https://papers.ssrn.com/abstract=6423439
